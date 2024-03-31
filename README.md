@@ -50,10 +50,12 @@ Below steps needs to be completed:
 
 
 ## Results
+
 ![image](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification/assets/128714777/73ed3ae9-afc7-4071-b2c8-f9019d832fe1)
 
 * Testing on the custom message:
-  <img width="519" alt="image" src="https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification/assets/128714777/ab3a6872-c610-4c4b-9562-df83317b4c81">
+  ![image](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification/assets/128714777/97492f58-e28b-42bb-928d-86430f1ed943)
+
   Prediction:
   ![image](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification/assets/128714777/57ceb26f-1238-43e6-aee8-ffedb8784ff8)
 
